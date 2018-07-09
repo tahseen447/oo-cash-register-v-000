@@ -17,4 +17,4 @@ class CashRegister
     discount = (@total * @discount)/100.0
     "After the discount, the total comes to $#{(@total - discount).chop}"
   end
-  end
+end
