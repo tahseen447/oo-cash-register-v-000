@@ -1,4 +1,4 @@
 require "pry"
 
-class cash_register_spec
+class CashRegister
 end
