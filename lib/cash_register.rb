@@ -2,6 +2,8 @@ require "pry"
 
 class CashRegister
 
-  attr_accessor
-  @total = 0
+  attr_accessor :total
+
+  def initialize
+  end
 end
